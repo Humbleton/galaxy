@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Megrim';
-  src: url(font/Megrim-Regular.ttf);
+  src: url(/font/Megrim-Regular.ttf);
 }
 @font-face {
   font-family: 'Raleway';
-  src: url(font/Raleway-VariableFont_wght.ttf);
+  src: url(/font/Raleway-VariableFont_wght.ttf);
 }
 canvas {
   position: fixed;
